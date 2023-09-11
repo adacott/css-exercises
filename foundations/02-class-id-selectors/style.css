@@ -1,0 +1,18 @@
+.salmon{
+    background-color: rgb(248, 189, 182);
+    font-family: verdana, "DejaVu sans", sans-serif;
+}
+
+.large{
+    font-size: 24px;
+}
+
+#id-one{
+    color: rgb(1, 1, 252);
+    font-size: 36px;
+}
+
+#id-two{
+    background-color: rgb(89, 225, 89);
+    font-weight: bold;
+}
